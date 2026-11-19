@@ -3,7 +3,7 @@
 A simple task board built with React and Vite. Organize tasks by status, set priorities, and keep your board saved in the browser.
 
 **GitHub repository:** [week8-react](https://github.com/umutoni-dinah/week8-react)
-
+**Live demo:** [Open the task board](https://week8-react-nu.vercel.app)
 ## Features
 
 - Add, edit, move, and delete tasks
